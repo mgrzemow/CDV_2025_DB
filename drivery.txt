@@ -1,0 +1,20 @@
+Postgresql
+_________
+psycopg2
+
+mariadb, mysql
+--------------
+mysql-connector-python
+
+mssql
+-----
+pymssql
+
+oracle
+------
+nowa - oracledb
+stara - cx_Orcale
+
+ODBC
+----
+pyodbc
